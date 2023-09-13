@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=League+Gothic&display=swap');
+
+body{
+    background-color: #342926;
+    height: 100vh;
+    box-sizing: border-box;
+}
+
+ .hade {
+  display: flex;
+ }
+
+.container .Tavern{
+  display: inline-block;
+  position: absolute;
+  width: 118px;
+  color: #010203;
+  font-family: 'League Gothic', sans-serif;
+  font-size: 30px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  top: 40px;
+  left: 915px;
+  letter-spacing: 5px;
+}
+
+
+
+.container .Point{
+  display: inline-block;
+  position: absolute;
+  width: 208px;
+  height: 190px;
+  flex-shrink: 0;
+  color: #010203;
+  font-family: 'League Gothic', sans-serif;
+  font-size: 86.32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  top: 30px;
+  left: 860px;
+  letter-spacing: 12px;
+}
+
+ .container .yuu{
+  display: inline-block;
+  position: absolute;
+  width: 288px;
+  height: 260px;
+  flex-shrink: 0;
+  top: 60px;
+  left: 810px;
+  border-radius: 169px;
+ }
+
+.container .Run{
+  display: inline-block;
+  position: absolute;
+  width: 208px;
+  height: 190px;
+  flex-shrink: 0;
+  color: #010203;
+  font-family: 'League Gothic', sans-serif;
+  font-size: 86.32px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  top: 110px;
+  left: 878px;
+  letter-spacing: 16px;
+}
+
+ .door .example {
+  display: inline-block;
+  position: absolute;
+  top: 420px;
+  left: 755px;
+  mix-blend-mode: luminosity;
+  width: 364px;
+  height: 504px;
+}
+
+
+
